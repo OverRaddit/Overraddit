@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div style="display:flex" align="center">
+  <a target="_blank" rel="noreferrer noopener" href="https://solved.ac/profile/kenwooshim">
+    <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kenwooshim">
+    <img height="180em" src="http://mazandi.herokuapp.com/api?handle=kenwooshim&theme=dark">
+  </a>
+</div>
